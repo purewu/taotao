@@ -1,4 +1,6 @@
 com\taotao\controller\IndexController.class
-com\taotao\controller\ItemController.class
 com\taotao\controller\PicturController.class
+com\taotao\test\TaotaoTest.class
+com\taotao\controller\ItemController.class
 com\taotao\controller\ItemCatController.class
+com\taotao\controller\ItemParamController.class
